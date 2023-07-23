@@ -1,4 +1,4 @@
-[![MasterHead]([https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif](https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif))]
+<a src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif"></a>
 
 <h1 align="center">Hi 👋, I'm Kshitiz</h1>
 <h3 align="center">just another dev</h3>
