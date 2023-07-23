@@ -1,3 +1,4 @@
+<a href="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif" alt="null"></a>
 <h1 align="center">Hi 👋, I'm Kshitiz</h1>
 <h3 align="center">just another dev</h3>
 
