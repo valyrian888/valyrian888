@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Kshitiz</h1>
+<h1 align="center">hey there, Kshitiz here</h1>
 <h3 align="center">just another frontend-dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valyrian888&label=Profile%20views&color=0e75b6&style=flat" alt="valyrian888" /> </p>
 
 <p align="left"> <a href="https://twitter.com/valyrian888" target="blank"><img src="https://img.shields.io/twitter/follow/valyrian888?logo=twitter&style=for-the-badge" alt="valyrian888" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://www.figma.com/file/ClxsKdIHrkxTmEKUoRCBs5/pp?type=design&node-id=0%3A1&mode=design&t=keb0bQLRXyjjpSCe-1](https://www.figma.com/file/ClxsKdIHrkxTmEKUoRCBs5/pp?type=design&node-id=0%3A1&mode=design&t=keb0bQLRXyjjpSCe-1)
 
 - 📫 How to reach me **yokkharsh12@gmail.com**
 
