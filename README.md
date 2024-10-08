@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Spatial Designing, User Behavior**
 
-- 👨‍💻 All of my projects are available at [https://kshitizkaportfolio.framer.website](https://kshitizkaportfolio.framer.website)
+- 👨‍💻 All of my projects are available at [Portfolio](https://kshitizkaportfolio.framer.website)
 
 - 📫 How to reach me **yokkharsh12@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qGXg0NMhxRNbF5R10kc2wYt00c_EyLoc/view?usp=drive_link](https://drive.google.com/file/d/1qGXg0NMhxRNbF5R10kc2wYt00c_EyLoc/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qGXg0NMhxRNbF5R10kc2wYt00c_EyLoc/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
