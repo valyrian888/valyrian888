@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valyrian888&label=Profile%20views&color=0e75b6&style=flat" alt="valyrian888" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/kshitizkamal98](Behance)
+- 👨‍💻 All of my projects are available at [Behance](https://www.behance.net/kshitizkamal98)  
 
-- 🌐 My Portfolio  [https://kshitizkaportfolio.framer.website](Portfolio)
+- 🌐 My Portfolio: [Portfolio](https://kshitizkaportfolio.framer.website)  
 
-- 📫 How to reach me  [mailto:yokkharsh12@gmail.com](yokkharsh12@gmail.com)
+- 📫 How to reach me: [yokkharsh12@gmail.com](mailto:yokkharsh12@gmail.com)  
 
-- 📄 Resume [https://drive.google.com/file/d/1LluDONMvsF1Wi5FS55ZRAU4_AwrtZ6Lw/view](Resume)
+- 📄 Resume: [Resume](https://drive.google.com/file/d/1LluDONMvsF1Wi5FS55ZRAU4_AwrtZ6Lw/view)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
