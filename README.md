@@ -1,11 +1,11 @@
 <h1 align="center">hi Kshitiz here</h1>
-<h3 align="center">UX Designer | Product Designer | Visual Designer</h3>
+<h3 align="center">UX Engineer | Product Designer | Visual Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valyrian888&label=Profile%20views&color=0e75b6&style=flat" alt="valyrian888" /> </p>
 
 - 👨‍💻 All of my projects are available at [Behance](https://www.behance.net/kshitizkamal98)  
 
-- 🌐 My Portfolio: [Portfolio](https://kshitizkaportfolio.framer.website)  
+- 🌐 My Portfolio: [Portfolio](https://astrix.framer.website)  
 
 - 📫 How to reach me: [yokkharsh12@gmail.com](mailto:yokkharsh12@gmail.com)  
 
